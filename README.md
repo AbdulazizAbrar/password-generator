@@ -1,1 +1,1 @@
-![Screenshot](./assets/password-generator.png)
+![Screenshot](assests/password-generator.png)
